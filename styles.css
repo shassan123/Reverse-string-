@@ -59,5 +59,6 @@
     border: transparent;
     border-radius: 8px;
     cursor: pointer;
+    display: none;
 }
 

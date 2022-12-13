@@ -12,6 +12,7 @@ function submit1() {
   document.getElementById("info").innerHTML = data;
   document.getElementById("btn-3").style.display = "none";
   document.getElementById("input").value = "";
+  document.getElementById("reset").style.display = "block";
 }
 function rev() {
   document.getElementById("btn-2").style.display = "none";
